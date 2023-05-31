@@ -40,3 +40,10 @@ body {
 #digits :nth-child(4n) {
   background-color: #ffa500;
 }
+#digits :last-child {
+  background-color: orange;
+}
+
+#digits :nth-child(17) {
+  grid-column: span 2;
+}
