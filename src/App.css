@@ -3,18 +3,18 @@ body {
 }
 
 #calculator {
-  width: 60%;
-  height: 210px;
+  width: 50%;
+  height: 410px;
   margin: 8rem 16rem;
 }
 
 #exit {
   height: 18%;
   width: 80%;
-  background-color: #808080;
+  background-color: gray;
   text-align: right;
   font-size: xx-large;
-  color: #fff;
+  color: white;
   box-sizing: border-box;
 }
 
@@ -27,17 +27,17 @@ body {
 #digits {
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 #digits > * {
-  border: 1px solid #dcdcdc;
+  border: 1px solid gainsboro;
   outline: none;
   font-size: x-large;
 }
 
 #digits :nth-child(4n) {
-  background-color: #ffa500;
+  background-color: orange;
 }
 
 #digits :last-child {
