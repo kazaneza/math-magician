@@ -1,3 +1,6 @@
+import React from 'react';
+import Button from './Button';
+
 function Calculator() {
   const keys = ['AC', '+/-', '%', '÷', 7, 8, 9, 'x', 4, 5, 6, '-', 1, 2, 3, '+', 0, '.', '='];
 
@@ -12,7 +15,7 @@ function Calculator() {
       <section id="input">
         <article id="digits">
           {
-                        keys.map((but) => <button key={but} type="button">{but}</button>)
+                        keys.map((but) => <Button key={but} text={but} />)
                     }
         </article>
       </section>
