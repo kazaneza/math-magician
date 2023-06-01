@@ -8,7 +8,7 @@ body {
   margin: 8rem 16rem;
 }
 
-#exit{
+#exit {
   height: 18%;
   width: 80%;
   background-color: #808080;
@@ -16,7 +16,6 @@ body {
   font-size: xx-large;
   color: #fff;
   box-sizing: border-box;
-
 }
 
 #input {
@@ -40,6 +39,7 @@ body {
 #digits :nth-child(4n) {
   background-color: #ffa500;
 }
+
 #digits :last-child {
   background-color: orange;
 }

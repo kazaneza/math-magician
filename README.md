@@ -1,8 +1,8 @@
-<a name="readme-top"></a>
+`<a name="readme-top"></a>`
 
 <div>
 
-  <h1><b>Math Magicians</b></h1><br/><br/>
+<h1><b>Math Magicians</b></h1><br/><br/>
 
 </div>
 
@@ -25,15 +25,15 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Math Magicians components<a name="about-project"></a>
+# 📖 Math Magicians components `<a name="about-project"></a>`
 
 **Math Magicians components**
 
 In this project, you should continue with the development of the Math Magicians app. You will develop a React component that will hold the core functionality: a calculator.
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With `<a name="built-with"></a>`
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack `<a name="tech-stack"></a>`
 
 <summary>Client</summary>
 <ul>
@@ -42,20 +42,17 @@ In this project, you should continue with the development of the Math Magicians 
   <li><a href="https://www.javascript.com/">JavaScript</a></li>
 </ul>
 
-### Key Features <a name="key-features"></a>
+### Key Features `<a name="key-features"></a>`
+
 - **Calculate operations**
 
   - The website that calculates some mathmathical operations
-  - Display a random quote
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Getting Started `<a name="getting-started"></a>`
 
 To get a local copy up and running, follow these steps.
 
@@ -114,7 +111,7 @@ You can deploy this project by:
 - Twitter: [@kazaneza](https://twitter.com/kazaneza)
 - LinkedIn: [kazaneza](https://www.linkedin.com/in/gentil-kazaneza/)
 
-## 🔭 Future Features <a name="future-features"></a>
+## 🔭 Future Features `<a name="future-features"></a>`
 
 - [ ] **[will improve page elements]**
 - [ ] **[will improve styles]**
@@ -122,25 +119,25 @@ You can deploy this project by:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing `<a name="contributing"></a>`
 
 Contributions, issues, and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ⭐️ Show your support <a name="support"></a>
+## ⭐️ Show your support `<a name="support"></a>`
 
 If you like this project, give it a ⭐️ and let me know what you like in particular.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments `<a name="acknowledgements"></a>`
 
 I would like to thank the whole Microverse community for their help and contributions towards this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License <a name="license"></a>
+## 📝 License `<a name="license"></a>`
 
 This project is [MIT](./LICENSE) licensed.
 
