@@ -1,4 +1,3 @@
-
 <div>
 
 <h1><b>Math Magicians</b></h1><br/><br/>
@@ -30,9 +29,9 @@
 
 In this project, you should continue with the development of the Math Magicians app. You will develop a React component that will hold the core functionality: a calculator.
 
-## 🛠 Built With 
+## 🛠 Built With
 
-### Tech Stack 
+### Tech Stack
 
 <summary>Client</summary>
 <ul>
@@ -41,7 +40,7 @@ In this project, you should continue with the development of the Math Magicians 
   <li><a href="https://www.javascript.com/">JavaScript</a></li>
 </ul>
 
-### Key Features 
+### Key Features
 
 - **Calculate operations**
 
@@ -49,13 +48,10 @@ In this project, you should continue with the development of the Math Magicians 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo 
-
-N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 💻 Getting Started 
+## 💻 Getting Started
 
 To get a local copy up and running, follow these steps.
 
@@ -114,7 +110,7 @@ You can deploy this project by:
 - Twitter: [@kazaneza](https://twitter.com/kazaneza)
 - LinkedIn: [kazaneza](https://www.linkedin.com/in/gentil-kazaneza/)
 
-## 🔭 Future Features 
+## 🔭 Future Features
 
 - [ ] **[will improve page elements]**
 - [ ] **[will improve styles]**
@@ -122,25 +118,25 @@ You can deploy this project by:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🤝 Contributing 
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ⭐️ Show your support 
+## ⭐️ Show your support
 
 If you like this project, give it a ⭐️ and let me know what you like in particular.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🙏 Acknowledgments 
+## 🙏 Acknowledgments
 
 I would like to thank the whole Microverse community for their help and contributions towards this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License 
+## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
 
