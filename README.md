@@ -50,8 +50,6 @@ In this project, you should continue with the development of the Math Magicians 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 💻 Getting Started `<a name="getting-started"></a>`
 
 To get a local copy up and running, follow these steps.
