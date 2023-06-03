@@ -1,70 +1,143 @@
-# Getting Started with Create React App
+<div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1><b>Math Magicians</b></h1><br/><br/>
 
-## Available Scripts
+</div>
 
-In the project directory, you can run:
+# 📗 Table of Contents
 
-### `npm start`
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# 📖 Math Magicians components
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Math Magicians components**
 
-### `npm test`
+In this project, you should continue with the development of the Math Magicians app. You will develop a React component that will hold the core functionality: a calculator.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠 Built With
 
-### `npm run build`
+### Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<summary>Client</summary>
+<ul>
+  <li><a href="https://html.com/html5/">HTML5</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS">CSS</a></li>
+  <li><a href="https://www.javascript.com/">JavaScript</a></li>
+</ul>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Key Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Calculate operations**
 
-### `npm run eject`
+  - The website that calculates some mathmathical operations
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 💻 Getting Started
 
-## Learn More
+To get a local copy up and running, follow these steps.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Prerequisites
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+In order to run this project you need:
 
-### Code Splitting
+- A browser (e.g. Firefox)
+- An IDE (e.g. [Vususal Studio Code](https://code.visualstudio.com/download))
+- [npm](https://nodejs.org/en/)
+- Terminal
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Setup
 
-### Analyzing the Bundle Size
+To clone this repository to your desired folder, follow the steps below:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+**Using the command line**
 
-### Making a Progressive Web App
+- Use the following commands
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```sh
+  cd my-folder
+  git clone
+```
 
-### Advanced Configuration
+**Using GitHub Desktop app**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Follow the steps below
+
+  - Visit this link "https://github.com/kazaneza/math-magicians"
+  - Click the green button labelled "code"
+  - Select the "Open with GitHub Desktop" option
+  - After the GitHub Desktop add opens, click the "clone repo" button
+
+### Usage
+
+To run the project, execute the following command:
+
+- **npm install**
+- **npm start**
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+You can deploy this project by:
 
-### `npm run build` fails to minify
+- visiting your repository on [GitHub](https://github.com/kazaneza/math-magicians)
+- Click on settings
+- Go to the "Pages" option
+- Select the main branch and save
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+👤 👤 **Kazaneza**
+
+- GitHub: [@kazaneza](https://github.com/kazaneza)
+- Twitter: [@kazaneza](https://twitter.com/kazaneza)
+- LinkedIn: [kazaneza](https://www.linkedin.com/in/gentil-kazaneza/)
+
+## 🔭 Future Features
+
+- [ ] **[will improve page elements]**
+- [ ] **[will improve styles]**
+- [ ] **[will improve functionality]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support
+
+If you like this project, give it a ⭐️ and let me know what you like in particular.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments
+
+I would like to thank the whole Microverse community for their help and contributions towards this project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
