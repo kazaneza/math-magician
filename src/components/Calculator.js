@@ -6,17 +6,12 @@ function Calculator() {
 
   return (
     <section id="calculator">
-      <input
-        type="text"
-        value="0"
-        disabled
-        id="exit"
-      />
+      <input type="text" value="0" disabled id="exit" />
       <section id="input">
         <article id="digits">
-          {
-                        keys.map((but) => <Button key={but} text={but} />)
-                    }
+          {keys.map((but) => (
+            <Button key={but} text={but.toString()} />
+          ))}
         </article>
       </section>
     </section>

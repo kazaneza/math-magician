@@ -2,9 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 function Button({ text }) {
-  return (
-    <button type="button">{text}</button>
-  );
+  return <button type="button">{text}</button>;
 }
 
 Button.propTypes = {
